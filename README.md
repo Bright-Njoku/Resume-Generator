@@ -1,2 +1,2 @@
 # Resume-Generator
-Professional Resume generator for easy creating of resume
+ReactJS Basic Resume Generator which will generate a professionally customized Resume in few minutes on your requirements.
